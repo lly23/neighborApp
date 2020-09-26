@@ -1,0 +1,12 @@
+{
+  "name": "NeighborApp",
+  "displayName": "NeighborApp",
+  "expo": {
+    "name": "NeighborApp",
+    "slug": "NeighborApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
